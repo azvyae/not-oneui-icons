@@ -1,0 +1,35 @@
+<svg width="341" height="341" viewBox="0 0 341 341" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_11_18)">
+<rect width="341" height="341" fill="url(#paint0_linear_11_18)"/>
+<g filter="url(#filter0_d_11_18)">
+<path d="M240.846 213.173C240.846 231.601 226.504 243.574 208.25 243.596H99.5961C81.364 243.618 67.0217 231.731 67 213.325V224.038C67.0217 242.466 81.364 256.656 99.5961 256.635H208.25C226.482 256.613 240.868 242.466 240.846 224.038V213.173Z" fill="#5190ED"/>
+<path d="M293 221.865C292.935 227.233 285.807 230.167 282.135 226.212L240.846 184.923V195.788L282.135 237.077C286.481 241.228 293 238.62 293 232.731V221.865Z" fill="#5190ED"/>
+<path d="M282.135 117.558L240.846 158.846V184.945L282.135 226.212C285.981 230.297 293 227.472 293 221.865V121.904C293 116.428 286.068 113.69 282.135 117.558Z" fill="#F1F3F4"/>
+<path d="M208.25 98H99.5962C81.3641 98.0218 66.9783 112.647 67 130.596V213.173C67.0218 231.123 81.3641 245.791 99.5962 245.769H208.25C226.482 245.748 240.868 231.123 240.846 213.173V130.596C240.824 112.647 226.482 97.9783 208.25 98Z" fill="url(#paint1_radial_11_18)"/>
+<path d="M240.846 187.531L240.868 184.923L249.538 193.615V150.154L240.846 158.846V187.531Z" fill="#DDE0E4"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_11_18" x="3" y="34" width="354" height="286.635" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="32"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_11_18"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_11_18" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_11_18" x1="0" y1="0" x2="341" y2="351" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4D9AFF"/>
+<stop offset="1" stop-color="#1A73E8"/>
+</linearGradient>
+<radialGradient id="paint1_radial_11_18" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(112.5 106.5) rotate(50.0517) scale(256.971 302.319)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#E6E6E6"/>
+</radialGradient>
+<clipPath id="clip0_11_18">
+<rect width="341" height="341" fill="white"/>
+</clipPath>
+</defs>
+</svg>

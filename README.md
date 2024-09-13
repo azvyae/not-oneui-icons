@@ -17,12 +17,10 @@ This repository contains a custom icon set for One UI, featuring altered icons t
 
 ## Installation
 
-<a href="https://github.com/azvyae/not-oneui-icons/archive/refs/heads/main.zip" style="margin: auto; display: block; width: 128px; text-align: center; height: 32px">
-  <img src="https://img.shields.io/badge/Download_Zip-yellow" alt="Lazy Icons" style="width:100%; height:100%;"/>
-</a>
-
 1. Download the icons as a ZIP file by clicking the button below.
 2. Extract the contents and manually apply them to your device or app.
+
+[![Download ZIP](https://img.shields.io/badge/Download_Zip-yellow)](https://github.com/azvyae/not-oneui-icons/archive/refs/heads/main.zip)
 
 ## Contributing
 

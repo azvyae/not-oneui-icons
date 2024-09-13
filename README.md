@@ -3,8 +3,8 @@
 **No more lazy icons!**
 
 <div style="display: flex; justify-content: center; gap: 16px; max-width: 70%; margin: auto">
-  <img src=".github/docs/lazy-icons.png" alt="Lazy Icons" style="width: 48%;"/>
-  <img src=".github/docs/consistent-icons.png" alt="Consistent Icons" style="width: 48%;"/>
+  <img src=".github/docs/lazy-icons.png" alt="Lazy Icons" style="width: 47%;"/>
+  <img src=".github/docs/consistent-icons.png" alt="Consistent Icons" style="width: 47%;"/>
 </div>
 
 This repository contains a custom icon set for One UI, featuring altered icons to provide a more consistent look. The default One UI icons often use white backgrounds, which may feel inconsistent with the overall aesthetic. This project aims to provide a sleeker alternative with modified icons.

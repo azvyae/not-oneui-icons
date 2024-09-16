@@ -2,7 +2,7 @@
 
 **No more lazy icons!**
 
-**Version 1.0**
+**Version 1.1**
 
 ![Preview](.github/docs/preview.png)
 
@@ -19,12 +19,23 @@ This repository contains a custom icon set for One UI, featuring altered icons t
 1. Download the icons as a ZIP file by clicking the button below.
 2. Extract the contents and manually apply them to your device or app.
 
-[![Download ZIP](https://img.shields.io/badge/Download_Zip-yellow)](https://github.com/azvyae/not-oneui-icons/archive/refs/heads/v1.0.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_Zip-yellow)](https://github.com/azvyae/not-oneui-icons/archive/refs/heads/v1.1.zip)
 
 ## Changelog
 
-1. Added icons for basic apps like Google and Microsoft especially default with white backgrounds.
-2. Added shadow and diagonal gradients.
+1. Changed diagonal gradient backgrounds into vertical one.
+2. Make icons to look more vibrant, same as actual One UI icons instead of overly "reflective" icons.
+3. Removed shadows.
+4. Added certain icon for apps:
+    - Bardi
+    - Google Chrome, Photos, Documents, and Keep.
+    - Microsoft 365 and Edge
+    - ShopeePay
+5. Improved design for office apps.
+
+### Compare with previous version!
+
+![Comparison](.github/docs/comparison.png)
 
 ## Contributing
 

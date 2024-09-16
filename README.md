@@ -4,7 +4,6 @@
 
 **Version 1.0**
 
-
 ![Preview](.github/docs/preview.png)
 
 This repository contains a custom icon set for One UI, featuring altered icons to provide a more consistent look. The default One UI icons often use white backgrounds, which may feel inconsistent with the overall aesthetic. This project aims to provide a sleeker alternative with modified icons.
@@ -21,6 +20,11 @@ This repository contains a custom icon set for One UI, featuring altered icons t
 2. Extract the contents and manually apply them to your device or app.
 
 [![Download ZIP](https://img.shields.io/badge/Download_Zip-yellow)](https://github.com/azvyae/not-oneui-icons/archive/refs/heads/v1.0.zip)
+
+## Changelog
+
+1. Added icons for basic apps like Google and Microsoft especially default with white backgrounds.
+2. Added shadow and diagonal gradients.
 
 ## Contributing
 

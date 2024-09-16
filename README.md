@@ -33,6 +33,10 @@ This repository contains a custom icon set for One UI, featuring altered icons t
     - ShopeePay
 5. Improved design for office apps.
 
+### Compare with previous version!
+
+![Comparison](.github/docs/comparison.png)
+
 ## Contributing
 
 We welcome contributions to improve or expand the icon set!

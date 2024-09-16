@@ -1,7 +1,8 @@
 # Not OneUI Icons
 
 **No more lazy icons!**
-**V1.0**
+
+**Version 1.0**
 
 
 ![Preview](.github/docs/preview.png)

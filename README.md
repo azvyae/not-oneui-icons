@@ -20,7 +20,7 @@ This repository contains a custom icon set for One UI, featuring altered icons t
 1. Download the icons as a ZIP file by clicking the button below.
 2. Extract the contents and manually apply them to your device or app.
 
-[![Download ZIP](https://img.shields.io/badge/Download_Zip-yellow)](https://github.com/azvyae/not-oneui-icons/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download_Zip-yellow)](https://github.com/azvyae/not-oneui-icons/archive/refs/heads/v1.0.zip)
 
 ## Contributing
 
